@@ -1,0 +1,550 @@
+# Translation of Themes - HoneyBee in Ukrainian
+# This file is distributed under the same license as the Themes - HoneyBee package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-11 16:27:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - HoneyBee\n"
+
+#. Theme Name of the theme
+#: functions.php:159
+msgid "HoneyBee"
+msgstr "HoneyBee"
+
+#. Description of the theme
+msgid "HoneyBee is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyBee has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyBee is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+msgstr "HoneyBee - це легка, елегантна та повнофункціональна тема, створена для підприємств, журналів, газет, особистих блогів, інтернет-магазинів, ресторанів, планувальників весіль, спортзалів тощо. HoneyBee має такі особливості як банер слайдера, відгуки, послуги та блоги. Вона повністю сумісна з усіма пристроями. Проста у використанні та реалізації, HoneyBee також сумісна з WooCommerce. Ви можете легко імпортувати тестові дані за допомогою плагіна SpiceBox."
+
+#: index-news.php:87 index-news.php:131
+msgid "Read more"
+msgstr "Читати далі"
+
+#: index-news.php:70 index-news.php:114
+msgid "By"
+msgstr "від"
+
+#: index-news.php:10
+msgid "Cras Vitae Placerat"
+msgstr "Cras Vitae Placerat"
+
+#: index-news.php:9
+msgid "Vitae Lacinia"
+msgstr "Vitae Lacinia"
+
+#: inc/header/header-nav.php:33
+msgid "Search …"
+msgstr "Пошук..."
+
+#: inc/header/header-nav.php:27 inc/header/header-nav.php:35
+msgid "Search"
+msgstr "Шукати"
+
+#: inc/header/header-nav.php:14
+msgid "Toggle navigation"
+msgstr "Перемкнути навігацію"
+
+#: inc/customizer/customizer_theme_style.php:33
+msgid "Skin color"
+msgstr "Колір обкладинки"
+
+#: inc/customizer/customizer_theme_style.php:19
+msgid "Enable custom color skin"
+msgstr "Увімкнути користувацький колір обкладинки"
+
+#: inc/customizer/customizer_theme_style.php:7
+msgid "Custom Color Settings"
+msgstr "Користувацькі налаштування кольору"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "Перейти до контенту"
+
+#: functions.php:154
+msgid "Proudly powered by <a href=\"https://wordpress.org\"> WordPress</a> | Theme: <a href=\"https://spicethemes.com\" rel=\"nofollow\">HoneyBee</a> by SpiceThemes"
+msgstr "З гордістю працюємо під <a href=\"https://wordpress.org\"> WordPress</a> | Тема: <a href=\"https://spicethemes.com\" rel=\"nofollow\">HoneyBee</a> від SpiceThemes"
+
+#: functions/widgets/wdl_topbar_info.php:137
+msgid "Email: abc@example.com"
+msgstr "Email: abc@example.com"
+
+#: functions/widgets/wdl_topbar_info.php:132
+msgid "Email"
+msgstr "Email"
+
+#: functions/widgets/wdl_topbar_info.php:128
+msgid "fa fa-phone"
+msgstr "fa fa-phone"
+
+#: functions/widgets/wdl_topbar_info.php:120
+msgid "Phone: +99 999-999-9999"
+msgstr "Телефон: +99 999-999-9999"
+
+#: functions/widgets/wdl_topbar_info.php:115
+msgid "Phone"
+msgstr "Телефон"
+
+#: functions/widgets/wdl_topbar_info.php:112
+#: functions/widgets/wdl_topbar_info.php:130
+msgid "Link to get Font Awesome icons"
+msgstr "Посилання для отримання іконок Font Awesome"
+
+#: functions/widgets/wdl_topbar_info.php:110
+#: functions/widgets/wdl_topbar_info.php:112
+#: functions/widgets/wdl_topbar_info.php:130
+msgid "fa-icon"
+msgstr "fa-icon"
+
+#: functions/widgets/wdl_topbar_info.php:105
+#: functions/widgets/wdl_topbar_info.php:123
+msgid "Font Awesome icon"
+msgstr "Іконка Font Awesome"
+
+#: functions/widgets/wdl_topbar_info.php:66
+#: functions/widgets/wdl_topbar_info.php:99
+msgid "abc@example.com"
+msgstr "abc@example.com"
+
+#: functions/widgets/wdl_topbar_info.php:48
+#: functions/widgets/wdl_topbar_info.php:87
+msgid "+99 999-999-9999"
+msgstr "+99 999-999-9999"
+
+#: functions/widgets/wdl_topbar_info.php:19
+msgid "Topbar header info widget."
+msgstr "Віджет інформації у верхній панелі шапки."
+
+#: functions/widgets/wdl_topbar_info.php:16
+msgid "HoneyBee: Header info widget"
+msgstr "HoneyBee: Інформаційний віджет у шапці"
+
+#: functions/widgets/wdl_social_icon.php:241
+msgid "Dribble URL"
+msgstr "Dribble URL"
+
+#: functions/widgets/wdl_social_icon.php:235
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: functions/widgets/wdl_social_icon.php:229
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/widgets/wdl_social_icon.php:223
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: functions/widgets/wdl_social_icon.php:217
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions/widgets/wdl_social_icon.php:211
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/widgets/wdl_social_icon.php:205
+msgid "Google-Plus URL"
+msgstr "Google-Plus URL"
+
+#: functions/widgets/wdl_social_icon.php:199
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/widgets/wdl_social_icon.php:196
+#: functions/widgets/wdl_social_icon.php:202
+#: functions/widgets/wdl_social_icon.php:208
+#: functions/widgets/wdl_social_icon.php:214
+#: functions/widgets/wdl_social_icon.php:220
+#: functions/widgets/wdl_social_icon.php:226
+#: functions/widgets/wdl_social_icon.php:232
+#: functions/widgets/wdl_social_icon.php:238
+#: functions/widgets/wdl_social_icon.php:244
+msgid "Open link in new tab"
+msgstr "Відкрити посилання у новій вкладці"
+
+#: functions/widgets/wdl_social_icon.php:193
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/widgets/wdl_social_icon.php:16
+msgid "HoneyBee social icons widget"
+msgstr "Віджет соціальних іконок HoneyBee"
+
+#: functions/widgets/wdl_social_icon.php:13
+msgid "HoneyBee: Social icons"
+msgstr "HoneyBee: Соціальні іконки"
+
+#: functions/widgets/sidebars.php:19
+msgid "Subscriber section widget area"
+msgstr "Область віджетів розділу підписки"
+
+#: functions/widgets/sidebars.php:17
+msgid "Top header sidebar Right area"
+msgstr "Права область бічної панелі верхнього заголовку"
+
+#: functions/widgets/sidebars.php:10
+msgid "Social media menu lateral area"
+msgstr "Бокова область меню соціальних медіа"
+
+#: functions/widgets/sidebars.php:8
+msgid "Top header sidebar left area"
+msgstr "Ліва область бічної панелі верхнього заголовку"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Хочете дізнатись про останні зміни теми? Просто ознайомтесь з списком змін нижче, щоб отримати знання щодо останніх виправлень і запроваджених функцій."
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid "We want to make sure you have the best experience using HoneyBee, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using HoneyBee as much as we enjoy creating great products."
+msgstr "Ми хочемо переконатися, що ви задоволені використанням HoneyBee, і саме тому ми зібрали всю необхідну інформацію для вас. Ми сподіваємось, що вам сподобається HoneyBee, так само як і нам, створювати чудові продукти."
+
+#: admin/tab-pages/useful_plugins.php:12 admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr "Напишіть на підтримку"
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Premium Theme Details"
+msgstr "Деталі преміум теми"
+
+#: admin/tab-pages/getting-started.php:70
+msgid "Premium Theme Support"
+msgstr "Преміум-підтримка теми"
+
+#: admin/tab-pages/getting-started.php:67
+msgid "Your feedback is valuable to us"
+msgstr "Ваш відгук важливий для нас"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "PRO Demo"
+msgstr "Про-демо"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "Lite Demo"
+msgstr "Лайт-демо"
+
+#: admin/tab-pages/getting-started.php:44
+msgid "Useful Links"
+msgstr "Корисні посилання"
+
+#: admin/tab-pages/getting-started.php:35
+msgid "HoneyBee theme"
+msgstr "Тема HoneyBee"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Go to the Customizer"
+msgstr "Перейти то Налаштовувача"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "Якщо ви хочете скористатись усіма перевагами параметрів, які пропонує ця тема, будь ласка, встановіть та активуйте плагін SpiceBox. Перейдіть в налаштування та встановіть плагін SpiceBox."
+
+#: admin/tab-pages/getting-started.php:19
+msgid "You can use this theme for any type of activity. HoneyBee is compatible with popular plugins like WPML and Polylang for the translation."
+msgstr "Ви можете використовувати цю тему для будь-якої діяльності. HoneyBee сумісна з популярними перекладацькими плагінами, такими як WPML і Polylang."
+
+#: admin/tab-pages/getting-started.php:11
+msgid "About the HoneyBee theme"
+msgstr "Про тему HoneyBee"
+
+#: admin/tab-pages/free_vs_pro.php:151
+msgid "Get PRO Version Now!"
+msgstr "Отримати версію ПРО зараз!"
+
+#: admin/tab-pages/free_vs_pro.php:141
+msgid "Premium Support Forum"
+msgstr "Преміум-форум підтримки"
+
+#: admin/tab-pages/free_vs_pro.php:128
+msgid "Wide layout & Boxed Layout"
+msgstr "Широка і фіксована розмітка"
+
+#: admin/tab-pages/free_vs_pro.php:127
+msgid "About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Про нас, послуги, портфоліо, блог з лівою і правою бічною колонкою, блог на всю ширину, сторінка на всю ширину, сторінка контактів і багато іншого."
+
+#: admin/tab-pages/getting-started.php:17
+msgid "This theme is ideal for creating corporate and business websites. HoneyBee is a child theme of the HoneyPress WordPress theme. The premium version has tons of features like a homepage with many sections where you can feature unlimited slides, portfolios, user reviews, latest news, services, call to action and much more. Each section in the Homepage template is carefully designed to fit to all business requirements."
+msgstr "Ця тема ідеальна для створення корпоративних і бізнес-сайтів.  HoneyBee — тема-нащадок WordPress-теми HoneyPress. Преміум версія має безліч функцій: головна сторінка з багатьма розділами, де ви можете скористатися необмеженими слайдерами, портфоліо, відгуками користувачів, свіжими новинами, послугами, закликами до дії тощо. Кожен розділ у шаблоні головної сторінки дбайливо створений для задоволення усіх бізнес-потреб."
+
+#: admin/tab-pages/free_vs_pro.php:125
+msgid "Top Header, Slider [Unlimited], Services [Unlimited], Portfolio [Unlimited], Latest News, Clients, Testimonials, Custom Widgets"
+msgstr "Верхній заголовок, слайдер [необмежений], послуги [необмежені], портфоліо [необмежене], свіжі новики, клієнти, відгуки, користувацькі віджети"
+
+#: admin/tab-pages/free_vs_pro.php:120
+msgid "Pro"
+msgstr "ПРО"
+
+#: admin/tab-pages/free_vs_pro.php:108
+msgid "On WordPress.org Support Forum"
+msgstr "На форумі підтримки WordPress.org"
+
+#: admin/tab-pages/free_vs_pro.php:94
+msgid "Business Template and Full-Width Template"
+msgstr "Бізнес-шаблон і шаблон на всю ширину"
+
+#: admin/tab-pages/free_vs_pro.php:89
+msgid "Slider [Static Image], Services [3 Services], Testimonial, Latest News"
+msgstr "Слайдер [статичне зображення], послуги [3 послуги], відгуки, свіжі новини"
+
+#: admin/tab-pages/free_vs_pro.php:83
+msgid "Free"
+msgstr "Безкоштовна"
+
+#: admin/tab-pages/free_vs_pro.php:69
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Отримайте підтримку 24/7 на форумі підтримки."
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "Support Forum"
+msgstr "Форум підтримки"
+
+#: admin/tab-pages/free_vs_pro.php:65
+msgid "You can use WPML to make your website multilingual."
+msgstr "Ви можете використовувати WPML для створення багатомовного сайту."
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "WPML Support"
+msgstr "Підтримка WPML"
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "You can customize the style without adding any code."
+msgstr "Ви можете налаштувати стиль без додавання коду."
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "Typography Settings"
+msgstr "Налаштування типографії"
+
+#: admin/tab-pages/free_vs_pro.php:53
+msgid "Show user feedback on the Homepage."
+msgstr "Відображайте відгуки користувачів на головній сторінці."
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Testimonial/Review Section"
+msgstr "Розділ відгуків й оглядів"
+
+#: admin/tab-pages/free_vs_pro.php:49
+msgid "Show all your services in a single place."
+msgstr "Відображайте усі ваші послуги в одному місці."
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Services Page"
+msgstr "Сторінка послуг"
+
+#: admin/tab-pages/free_vs_pro.php:45
+msgid "Show team members and custom content added in the WordPress editor."
+msgstr "Відображайте членів команди і користувацький контент, доданий у редакторі WordPress."
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "About Us Page"
+msgstr "Сторінка «Про нас»"
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Презентуйте колекцію проектів або портфоліо у 2-, 3- або 4-колоночних розмітках. Ви також можете відображати проекти і портфоліо за категоріями."
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Portfolio"
+msgstr "Портфоліо"
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Відображайте розташування вашого магазину або бізнесу на сайті за допомогою карт Google."
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "Google Map"
+msgstr "Карта Google"
+
+#: admin/tab-pages/free_vs_pro.php:35
+msgid "Enjoy any of the 7 preset color schemes, or create your own, without adding any code."
+msgstr "Насолоджуйтесь будь-якою з 7 встановлених кольорових схем або створіть власну без написання будь-якого коду."
+
+#: admin/tab-pages/free_vs_pro.php:34
+msgid "Mulitple Color Schemes"
+msgstr "Багато кольорових схем"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+msgstr "Ця тема підтримує плагін Contact Form 7. Використайте його для створення контактної форми."
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Contact Form Support"
+msgstr "Підтримка контактної форми"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "Адаптивний дизайн на усіх пристроях"
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "Мобільна"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "HoneyBee supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+msgstr "HoneyBee підтримує повноекранну і вузьку розмітку. Для зміни налаштування (та перемикання між ними) перейдіть до  Зовнішній вигляд -> Налаштування."
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr "Налаштування макету"
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "HoneyBee includes various page templates."
+msgstr "HoneyBee містить різноманітні шаблони сторінок."
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr "Підтримка шаблонів сторінки"
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Ви знайдете декілька розділів на головній сторінці."
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Розділ головної сторінки"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Можливості"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Активувати зараз"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "Активувати SpiceBox зараз"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Ви встановили плагін SpiceBox. Щоб скористатися усіма перевагами цієї теми у налаштовувачі, вам необхідно активувати його."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "Встановити SpiceBox зараз"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "Щоб скористатися всіма перевагами цієї теми в налаштовувачі, вам необхідно встановити плагін SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:561
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "Щоб відображати хлібні крихти, будь ласка, встановіть плагін Yoast SEO."
+
+#: admin/inc/class-spicethemes-about-page.php:559
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:555
+msgid "To display the contact form on the contact section in homepage, please install the Contact Form 7 plugin"
+msgstr "Для відображення контактної форми у розділі контактів головної сторінки, будь ласка, встановіть плагін Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:553
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "Для отримання доступу до розширених розділів головної сторінки та інших функцій теми, будь ласка, встановіть плагін SpiceBox."
+
+#: admin/inc/class-spicethemes-about-page.php:547
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:423
+msgid "Active"
+msgstr "Активний"
+
+#: admin/inc/class-spicethemes-about-page.php:420
+msgid "Activate"
+msgstr "Активувати"
+
+#: admin/inc/class-spicethemes-about-page.php:418
+msgid "Activate %s now"
+msgstr "Активувати %s зараз"
+
+#: admin/inc/class-spicethemes-about-page.php:401
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Встановити й активувати"
+
+#: admin/inc/class-spicethemes-about-page.php:399
+msgid "Install %s now"
+msgstr "Встановити %s"
+
+#: admin/inc/class-spicethemes-about-page.php:320
+msgid "Free vs. PRO"
+msgstr "Безкоштовна чи Про"
+
+#: admin/tab-pages/useful_plugins.php:20 admin/tab-pages/useful_plugins.php:22
+#: admin/inc/class-spicethemes-about-page.php:315
+msgid "Changelog"
+msgstr "Список змін"
+
+#: admin/inc/class-spicethemes-about-page.php:308
+msgid "Support"
+msgstr "Підтримка"
+
+#: admin/inc/class-spicethemes-about-page.php:300
+msgid "Recommended Actions"
+msgstr "Рекомендовані дії"
+
+#: admin/tab-pages/getting-started.php:22
+#: admin/inc/class-spicethemes-about-page.php:295
+msgid "Getting Started"
+msgstr "Починаємо"
+
+#: admin/inc/class-spicethemes-about-page.php:243
+msgid "See changelog below:"
+msgstr "Перегляньте список змін нижче:"
+
+#: admin/inc/class-spicethemes-about-page.php:136
+msgid "Get started with HoneyBee theme"
+msgstr "Розпочати з HoneyBee"
+
+#: admin/inc/class-spicethemes-about-page.php:135
+msgid "HoneyBee theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "Тему HoneyBee встановлено. Щоб скористатися усіма перевагами, що пропонує ця тема, будь ласка, відвідайте нашу %1$s вітальну сторінку %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:122
+msgid "Welcome to %1$s %2$s"
+msgstr "Вітаємо у %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:121
+msgid "About %1$s %2$s"
+msgstr "Про %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:113
+msgid "View Theme Info"
+msgstr "Переглянути інформацію по темі"
+
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/plugin-include-control.php:42 admin/inc/include-companion.php:43
+msgid "Error"
+msgstr "Помилка"
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/plugin-include-control.php:41 admin/inc/include-companion.php:42
+msgid "Activating"
+msgstr "Активується"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/plugin-include-control.php:40 admin/inc/include-companion.php:41
+msgid "Installing"
+msgstr "Встановлення"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com/"
+msgstr "https://spicethemes.com/"
+
+#. Author of the theme
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/honeybee-wordpress-theme/"
+msgstr "https://spicethemes.com/honeybee-wordpress-theme/"

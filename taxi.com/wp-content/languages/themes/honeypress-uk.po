@@ -1,0 +1,909 @@
+# Translation of Themes - HoneyPress in Ukrainian
+# This file is distributed under the same license as the Themes - HoneyPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-08 11:40:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - HoneyPress\n"
+
+#. Theme Name of the theme
+#: inc/customizer/helper-function.php:82
+msgid "HoneyPress"
+msgstr "HoneyPress"
+
+#. Description of the theme
+msgid "HoneyPress is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyPress has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyPress is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+msgstr "HoneyPress - це легка, елегантна та повнофункціональна тема, створена для підприємств, журналів, газет, особистих блогів, інтернет-магазинів, ресторанів, планувальників весіль, спортзалів тощо. HoneyPress має такі особливості як банер слайдера, відгуки, послуги та блоги. Вона повністю сумісна з усіма пристроями. Проста у використанні та реалізації, HoneyPress також сумісна з WooCommerce. Ви можете легко імпортувати тестові дані за допомогою плагіна SpiceBox."
+
+#: admin/tab-pages/free_vs_pro.php:161
+msgid "RTL language support"
+msgstr "Підтримка мов справа наліво"
+
+#: 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:16
+msgid "Oops! Page not found!"
+msgstr "Ой! Сторінку не знайдено!"
+
+#: 404.php:17
+msgid "The page you are looking for can't be found"
+msgstr "Сторінка, яку ви шукаєте, не існує"
+
+#: 404.php:19
+msgid "Go Back"
+msgstr "Повернутися назад"
+
+#. translators: 1: title.
+#: comments.php:30
+msgid "1 COMMENT"
+msgstr "1 КОМЕНТАР"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s COMMENT"
+msgid_plural "%1$s COMMENTS"
+msgstr[0] "%1$s КОМЕНТАР"
+msgstr[1] "%1$s КОМЕНТАРІ"
+msgstr[2] "%1$s КОМЕНТАРІВ"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Коментувати не дозволено."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:568
+msgid "Slide Format"
+msgstr "Формат слайду"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Standard"
+msgstr "Стандартний"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Aside"
+msgstr "Замітка"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Quote"
+msgstr "Цитата"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:584
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Video"
+msgstr "Відео"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Image type"
+msgstr "Тип зображення"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:603
+msgid "None"
+msgstr "Немає"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "Social icons"
+msgstr "Соціальні значки"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:628
+#: inc/customizer-repeater/class/customizer-repeater-control.php:658
+msgid "Remove Icon"
+msgstr "Видалити іконку"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:633
+#: inc/customizer-repeater/class/customizer-repeater-control.php:666
+msgid "Add Icon"
+msgstr "Додати іконку"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/plugin-include-control.php:40 admin/inc/include-companion.php:41
+msgid "Installing"
+msgstr "Встановлення"
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/plugin-include-control.php:41 admin/inc/include-companion.php:42
+#: inc/customizer-notify/honeypress-customizer-notify.php:109
+msgid "Activating"
+msgstr "Активується"
+
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/plugin-include-control.php:42 admin/inc/include-companion.php:43
+msgid "Error"
+msgstr "Помилка"
+
+#: admin/inc/class-spicethemes-about-page.php:112
+msgid "View Theme Info"
+msgstr "Переглянути інформацію по темі"
+
+#: admin/inc/class-spicethemes-about-page.php:120
+msgid "About %1$s %2$s"
+msgstr "Про %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:121
+msgid "Welcome to %1$s %2$s"
+msgstr "Вітаємо у %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:135
+msgid "Get started with HoneyPress"
+msgstr "Розпочати з HoneyPress"
+
+#: admin/inc/class-spicethemes-about-page.php:237
+msgid "See changelog below:"
+msgstr "Перегляньте список змін нижче:"
+
+#: admin/inc/class-spicethemes-about-page.php:287
+msgid "Getting Started"
+msgstr "Починаємо"
+
+#: admin/inc/class-spicethemes-about-page.php:293
+#: inc/customizer/customizer-recommended-plugin.php:12
+msgid "Recommended Actions"
+msgstr "Рекомендовані дії"
+
+#: admin/inc/class-spicethemes-about-page.php:299
+msgid "One Click Demo Import"
+msgstr "Демо-імпорт в один клік"
+
+#: admin/inc/class-spicethemes-about-page.php:304
+msgid "Changelog"
+msgstr "Список змін"
+
+#: admin/inc/class-spicethemes-about-page.php:309
+msgid "Free vs. Plus"
+msgstr "Безкоштовне чи Plus"
+
+#: admin/inc/class-spicethemes-about-page.php:387
+msgid "Install %s now"
+msgstr "Встановити %s"
+
+#: admin/inc/class-spicethemes-about-page.php:389
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Встановити й активувати"
+
+#: admin/inc/class-spicethemes-about-page.php:406
+msgid "Activate %s now"
+msgstr "Активувати %s зараз"
+
+#: admin/inc/class-spicethemes-about-page.php:408
+#: inc/class-tgm-plugin-activation.php:2726
+#: inc/customizer/customizer-recommended-plugin.php:15
+msgid "Activate"
+msgstr "Активувати"
+
+#: admin/inc/class-spicethemes-about-page.php:411
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Діючий"
+
+#: admin/inc/class-spicethemes-about-page.php:537
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:539
+msgid "To access the advanced Frontpage sections and the other features, please install the SpiceBox plugin."
+msgstr "Для отримання доступу до розширених розділів головної сторінки та інших функцій, будь ласка, встановіть плагін SpiceBox. "
+
+#: admin/inc/class-spicethemes-about-page.php:543
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:545
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "Для відображення контактної форми, будь ласка, встановіть плагін Contact Form 7."
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:551
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "Щоб відображати хлібні крихти, будь ласка, встановіть плагін Yoast SEO."
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "Щоб скористатися всіма перевагами цієї теми в налаштовувачі, вам необхідно встановити плагін SpiceBox."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "Встановити SpiceBox зараз"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Ви встановили плагін SpiceBox. Щоб скористатися усіма перевагами цієї теми у налаштовувачі, вам необхідно активувати його."
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "Активувати SpiceBox зараз"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Активувати зараз"
+
+#: admin/tab-pages/free_vs_pro.php:15
+msgid "WooCommerce Support"
+msgstr "Підтримка WooCommerce"
+
+#: admin/tab-pages/free_vs_pro.php:23
+msgid "Contact Form Support"
+msgstr "Підтримка контактної форми"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "Slider/Banner Section"
+msgstr "Слайдер/розділ банера"
+
+#: admin/tab-pages/free_vs_pro.php:39
+msgid "Full Screen"
+msgstr "Повний екран"
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "Slides"
+msgstr "Слайди"
+
+#: admin/tab-pages/free_vs_pro.php:50 admin/tab-pages/free_vs_pro.php:67
+#: admin/tab-pages/free_vs_pro.php:84 admin/tab-pages/free_vs_pro.php:108
+#: admin/tab-pages/free_vs_pro.php:132 admin/tab-pages/free_vs_pro.php:156
+msgid "Unlimited"
+msgstr "Необмежено"
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "Service Section"
+msgstr "Розділ послуг"
+
+#: admin/tab-pages/free_vs_pro.php:64 admin/tab-pages/free_vs_pro.php:81
+msgid "Number of items"
+msgstr "Кількість елементів"
+
+#: admin/tab-pages/free_vs_pro.php:66 admin/tab-pages/free_vs_pro.php:155
+msgid "3"
+msgstr "3"
+
+#: admin/tab-pages/free_vs_pro.php:73
+msgid "Shop Section"
+msgstr "Розділ магазину"
+
+#: admin/tab-pages/free_vs_pro.php:83 admin/tab-pages/free_vs_pro.php:131
+msgid "No"
+msgstr "Ні"
+
+#: admin/tab-pages/free_vs_pro.php:89 admin/tab-pages/free_vs_pro.php:113
+#: admin/tab-pages/free_vs_pro.php:137
+msgid "Carousel effect"
+msgstr "Ефект каруселі"
+
+#: admin/tab-pages/free_vs_pro.php:97
+#: inc/customizer/customizer-pro-feature.php:42
+msgid "Testimonial Section"
+msgstr "Розділ відгуків"
+
+#: admin/tab-pages/free_vs_pro.php:105
+msgid "Number of testimonials"
+msgstr "Кількість відгуків"
+
+#: admin/tab-pages/free_vs_pro.php:49 admin/tab-pages/free_vs_pro.php:107
+#: admin/tab-pages/free_vs_pro.php:203
+msgid "1"
+msgstr "1"
+
+#: admin/tab-pages/free_vs_pro.php:121
+#: inc/customizer/customizer-pro-feature.php:50
+msgid "Team Section"
+msgstr "Розділ команди"
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid "Number of team members"
+msgstr "Кількість членів команди"
+
+#: admin/tab-pages/free_vs_pro.php:145
+msgid "Latest News Section"
+msgstr "Розділ свіжих новин"
+
+#: admin/tab-pages/free_vs_pro.php:153
+msgid "Number of articles"
+msgstr "Кількість статей"
+
+#: admin/tab-pages/free_vs_pro.php:169
+msgid "Theme layouts"
+msgstr "Розмітка теми"
+
+#: admin/tab-pages/free_vs_pro.php:177
+msgid "Wide layout"
+msgstr "Широка розмітка"
+
+#: admin/tab-pages/free_vs_pro.php:185
+msgid "Boxed layout"
+msgstr "Фіксована розмітка"
+
+#: admin/tab-pages/free_vs_pro.php:193
+msgid "Footer layouts"
+msgstr "Розмітка підвалу"
+
+#: admin/tab-pages/free_vs_pro.php:201
+msgid "Number of footer layouts"
+msgstr "Кількість розміток підвалу"
+
+#: admin/tab-pages/free_vs_pro.php:217
+msgid "Contact Form Section"
+msgstr "Розділ контактної форми"
+
+#: admin/tab-pages/free_vs_pro.php:225
+msgid "Subscriber Section"
+msgstr "Розділ підписки"
+
+#: admin/tab-pages/free_vs_pro.php:233
+msgid "Callout Section"
+msgstr "Розділ із закликом"
+
+#: admin/tab-pages/free_vs_pro.php:241
+msgid "Portfolio Section"
+msgstr "Розділ портфоліо"
+
+#: admin/tab-pages/free_vs_pro.php:249
+msgid "Funfact Section"
+msgstr "Розділ з цікавим фактом"
+
+#: admin/tab-pages/free_vs_pro.php:257
+msgid "Google Map"
+msgstr "Карта Google"
+
+#: admin/tab-pages/free_vs_pro.php:265
+#: inc/customizer/customizer-pro-feature.php:46
+msgid "Client Section"
+msgstr "Розділ клієнтів"
+
+#: admin/tab-pages/free_vs_pro.php:273
+msgid "Blog Templates (Left, Right, Full-Width)"
+msgstr "Шаблони блогу (ліворуч, праворуч, на повну ширину)"
+
+#: admin/tab-pages/getting-started.php:99 admin/tab-pages/free_vs_pro.php:281
+msgid "Typography"
+msgstr "Типографія"
+
+#: admin/tab-pages/getting-started.php:110 admin/tab-pages/free_vs_pro.php:289
+msgid "Drag and drop section orders"
+msgstr "Перетягуйте треки, щоби впорядкувати"
+
+#: admin/tab-pages/getting-started.php:106 admin/tab-pages/free_vs_pro.php:297
+msgid "Mulitple Color Schemes"
+msgstr "Багато кольорових схем"
+
+#: admin/tab-pages/getting-started.php:127 admin/tab-pages/free_vs_pro.php:305
+msgid "Homepage Sections Before/After Hooks"
+msgstr "Хуки перед/після розділів головної сторінки"
+
+#: admin/tab-pages/getting-started.php:102 admin/tab-pages/free_vs_pro.php:313
+msgid "WPML Support"
+msgstr "Підтримка WPML"
+
+#: admin/tab-pages/free_vs_pro.php:321
+msgid "Support Forum"
+msgstr "Форум підтримки"
+
+#: admin/tab-pages/getting-started.php:10
+msgid "HoneyPress theme Configuration"
+msgstr "Налаштування теми HoneyPress"
+
+#: admin/tab-pages/getting-started.php:16
+msgid "Links to Customizer Settings"
+msgstr "Посилання на опції налаштовувача"
+
+#: admin/tab-pages/getting-started.php:20
+msgid "Site Logo"
+msgstr "Лого сайту"
+
+#: admin/tab-pages/getting-started.php:26
+#: inc/customizer/customizer_typography.php:1365
+msgid "Footer Widgets"
+msgstr "Віджети підвалу"
+
+#: admin/tab-pages/getting-started.php:29
+#: inc/customizer/customizer_typography.php:337
+msgid "Homepage Sections"
+msgstr "Розділи головної сторінки"
+
+#: admin/tab-pages/getting-started.php:71
+msgid "Additional features in HoneyPress PRO"
+msgstr "Додаткові функції в HoneyPress PRO"
+
+#: admin/tab-pages/getting-started.php:75
+msgid "Unlimited slides"
+msgstr "Необмежені слайди"
+
+#: admin/tab-pages/getting-started.php:78
+msgid "Unlimited Service Section"
+msgstr "Необмежений розділ послуг"
+
+#: admin/tab-pages/getting-started.php:81
+msgid "Boxed layout support"
+msgstr "Підтримка фіксованої розмітки"
+
+#: admin/tab-pages/getting-started.php:84
+msgid "Portfolio section"
+msgstr "Розділ портфоліо"
+
+#: admin/tab-pages/getting-started.php:87
+msgid "Funfact section"
+msgstr "Розділ з цікавим фактом"
+
+#: admin/tab-pages/getting-started.php:90
+msgid "Google Maps section"
+msgstr "Розділ Google Maps"
+
+#: admin/tab-pages/getting-started.php:93
+msgid "Client section"
+msgstr "Розділ клієнтів"
+
+#: admin/tab-pages/getting-started.php:96
+msgid "Multiple Blog Templates"
+msgstr "Кілька шаблонів блогів"
+
+#: admin/tab-pages/getting-started.php:114
+msgid "Team section with carousel effect"
+msgstr "Розділ команди з ефектом каруселі"
+
+#: admin/tab-pages/getting-started.php:118
+msgid "Shop section with unlimited items"
+msgstr "Розділ магазину з необмеженими товарами"
+
+#: admin/tab-pages/getting-started.php:121
+msgid "Shop section with carousel effect"
+msgstr "Розділ магазину з ефектом каруселі"
+
+#: admin/tab-pages/getting-started.php:124
+msgid "Testimonial section with carousel effect"
+msgstr "Розділ відгуків з ефектом каруселі"
+
+#: admin/tab-pages/getting-started.php:131
+msgid "Latest news section with grid format"
+msgstr "Розділ останніх новин у форматі сітки"
+
+#: admin/tab-pages/getting-started.php:141
+msgid "Useful Links"
+msgstr "Корисні посилання"
+
+#: admin/tab-pages/getting-started.php:145
+msgid "HoneyPress Demo"
+msgstr "Демо-версія HoneyPress"
+
+#: admin/tab-pages/getting-started.php:148
+msgid "HoneyPress Pro Demo"
+msgstr "Демо-версія HoneyPress Pro"
+
+#: admin/tab-pages/getting-started.php:152
+msgid "HoneyPress Theme Support"
+msgstr "Підтримка теми HoneyPress"
+
+#: admin/tab-pages/getting-started.php:156
+msgid "Your feedback is valuable to us"
+msgstr "Ваш відгук важливий для нас"
+
+#: admin/tab-pages/getting-started.php:160
+msgid "HoneyPress Pro Details"
+msgstr "Деталі HoneyPress Pro"
+
+#: admin/tab-pages/getting-started.php:164
+msgid "HoneyPress Documentation"
+msgstr "Документація HoneyPress"
+
+#: admin/tab-pages/getting-started.php:168
+msgid "Pre-sales enquiry"
+msgstr "Передпродажні запити"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Сторінка на всю ширину"
+
+#: inc/menu/default_menu_walker.php:17 inc/breadcrumbs/breadcrumbs.php:56
+#: inc/breadcrumbs/breadcrumbs.php:68 inc/customizer/blog-page-options.php:20
+msgid "Home"
+msgstr "Головна"
+
+#: inc/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr "Помилка 404"
+
+#: inc/breadcrumbs/breadcrumbs.php:107
+msgid "Category: "
+msgstr "Категорія:"
+
+#: inc/breadcrumbs/breadcrumbs.php:122
+msgid "Tag : "
+msgstr "Позначка"
+
+#: inc/customizer/customizer-pro-feature.php:13
+#: inc/customizer/customizer-pro-feature.php:17
+#: inc/customizer/customizer-pro-feature.php:21
+#: inc/customizer/customizer-pro-feature.php:25
+#: inc/customizer/customizer-pro-feature.php:29
+#: inc/customizer/customizer-pro-feature.php:33
+#: inc/customizer/customizer-pro-feature.php:37
+#: inc/customizer/customizer-pro-feature.php:41
+#: inc/customizer/customizer-pro-feature.php:45
+#: inc/customizer/customizer-pro-feature.php:49
+#: inc/customizer/customizer-pro-feature.php:53
+#: inc/customizer/customizer-pro-feature.php:57
+#: inc/customizer/customizer-pro-feature.php:61
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/customizer/customizer-pro-feature.php:14
+msgid "Advanced Hook Settings"
+msgstr "Розширені налаштування хуків "
+
+#: inc/customizer/customizer-pro-feature.php:18
+msgid "Multiple Page Templates"
+msgstr "Кілька шаблонів сторінки"
+
+#: inc/customizer/customizer-pro-feature.php:22
+msgid "Portfolio Management"
+msgstr "Управління портфоліо"
+
+#: inc/customizer/customizer-pro-feature.php:26
+msgid "Slide Variations"
+msgstr "Варіації слайдів"
+
+#: inc/customizer/customizer-pro-feature.php:30
+msgid "Create Unlimited Services"
+msgstr "Створюйте необмежені послуги"
+
+#: inc/customizer/customizer_typography.php:6
+#: inc/customizer/customizer-pro-feature.php:34
+msgid "Typography Settings"
+msgstr "Налаштування типографії"
+
+#: inc/customizer/customizer-pro-feature.php:38
+msgid "Manage Contact Details"
+msgstr "Керуйте деталями контактів"
+
+#: inc/customizer/customizer-pro-feature.php:54
+msgid "Custom Color Schemes"
+msgstr "Користувацькі кольорові схеми"
+
+#: inc/customizer/customizer-pro-feature.php:58
+msgid "Section Reordering"
+msgstr "Розділ переупорядкування"
+
+#: inc/customizer/customizer-pro-feature.php:62
+msgid "Quality Support"
+msgstr "Якісна підтримка"
+
+#: inc/customizer/customizer-pro-feature.php:65
+msgid "UPGRADE TO PRO"
+msgstr "ОНОВИТИ ДО ПРО"
+
+#: inc/customizer/customizer-pro-feature.php:72
+msgid "View PRO Details"
+msgstr "Ознайомитися з деталями PRO"
+
+#: inc/customizer/customizer-pro-feature.php:97
+msgid "With individual hook settings, you can insert html or php code according to your needs."
+msgstr "За допомогою індивідуальних налаштувань хуків ви можете вставити html або php-код відповідно до своїх потреб."
+
+#: inc/customizer/customizer-pro-feature.php:98
+msgid "Theme comes with multiple page settings like multiple blog, portfolio 2/3/4 column, about us etc."
+msgstr "Тема йде з декількома налаштуваннями сторінки, як-от кілька блогів, 2/3/4 колонки портфоліо, про нас тощо."
+
+#: inc/customizer/customizer-pro-feature.php:99
+msgid "Create a professional-looking portfolio."
+msgstr "Створіть портфоліо, що виглядає професійно."
+
+#: inc/customizer/customizer-pro-feature.php:100
+msgid "PRO version comes with slide variation options, so you can adjust your content through text alignment."
+msgstr "PRO-версія йде з варіантами зміни слайдів, тому ви можете налаштувати вміст за допомогою вирівнювання тексту. "
+
+#: inc/customizer/customizer-pro-feature.php:101
+msgid "Add as many services as you like. You can even display each service on a separate page."
+msgstr "Додавайте стільки послуг, скільки захочете. Ви навіть можете відображати кожну послугу на окремій сторінці."
+
+#: inc/customizer/customizer-pro-feature.php:102
+msgid "Typography Settings allow you to choose content font size, font family, etc"
+msgstr "Налаштування типографії дозволяють вибирати розмір шрифту вмісту, сімейство шрифтів тощо"
+
+#: inc/customizer/customizer-pro-feature.php:103
+msgid "Theme comes with a beautifully designed section where you can manage your contact details."
+msgstr "Тема має прекрасно оформлений розділ, де ви можете керувати своїми контактними даними."
+
+#: inc/customizer/customizer-pro-feature.php:104
+msgid "Show all your team members, clients, testimonials on front page."
+msgstr "Показати всіх членів вашої команди, клієнтів, відгуки на головній сторінці."
+
+#: inc/customizer/customizer-pro-feature.php:105
+msgid "You can select amongst predefined color skins, or you can create your own without writing any CSS code."
+msgstr "Ви можете вибрати з-поміж передвстановлених кольорових схем або створити власну за допомогою коду CSS."
+
+#: inc/customizer/customizer-pro-feature.php:106
+msgid "The layout manager will help you rearrange all sections."
+msgstr "Менеджер розмітки допоможе вам впорядкувати усі розділи."
+
+#: inc/customizer/customizer-pro-feature.php:107
+msgid "Translation-ready, the theme supports popular plugins WPML and Polylang"
+msgstr "Готова до перекладу. Тема підтримує популярні плагіни WPML і Polylang"
+
+#: inc/customizer/customizer-pro-feature.php:108
+msgid "24/7 professional support for Google Maps"
+msgstr "24/7 професійна підтримка Google Maps"
+
+#: inc/customizer/customizer-pro-feature.php:109
+msgid "Dedicated support, widget and sidebar management."
+msgstr "Виокремлена підтримка, керування віджетами і бічними панелями."
+
+#: inc/customizer/customizer-recommended-plugin.php:8
+msgid "Install and activate the %s plugin to take full advantage of all the features this theme has to offer."
+msgstr "Встановіть й активуйте плагін %s, щоб скористуватися усіма перевагами, що пропонує ця тема."
+
+#: inc/customizer/customizer-recommended-plugin.php:13
+msgid "Recommended Plugin"
+msgstr "Рекомендований плагін"
+
+#: inc/customizer/customizer-recommended-plugin.php:14
+msgid "Install and Activate"
+msgstr "Встановити та активувати"
+
+#: inc/customizer/customizer-recommended-plugin.php:16
+msgid "Deactivate"
+msgstr "Деактивуйте"
+
+#: inc/customizer/customizer.php:44
+msgid "HoneyPress theme options"
+msgstr "Опції теми HoneyPress"
+
+#: inc/customizer/customizer_sections_settings.php:26
+msgid "Latest News settings"
+msgstr "Налаштування свіжих новин"
+
+#: inc/customizer/customizer_sections_settings.php:35
+msgid "Enable Home News section"
+msgstr "Увімкнути розділ новин на головній"
+
+#: inc/customizer/customizer_sections_settings.php:39
+msgid "ON"
+msgstr "Увімкнено"
+
+#: inc/customizer/customizer_sections_settings.php:40
+msgid "OFF"
+msgstr "Вимкнено"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:257
+#: inc/customizer-repeater/class/customizer-repeater-control.php:404
+#: inc/customizer/customizer_sections_settings.php:51
+msgid "Title"
+msgstr "Назва"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:271
+#: inc/customizer-repeater/class/customizer-repeater-control.php:418
+#: inc/customizer/customizer_sections_settings.php:62
+msgid "Description"
+msgstr "Опис"
+
+#: inc/customizer/customizer_sections_settings.php:80
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "Увімкнути мета значення записів, такі як ім'я автора, дата, коментарі тощо."
+
+#: inc/customizer/helper-function.php:13 inc/customizer/helper-function.php:20
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr "<i class=\"fa fa-angle-double-left\"></i>"
+
+#: inc/customizer/helper-function.php:14 inc/customizer/helper-function.php:19
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr "<i class=\"fa fa-angle-double-right\"></i>"
+
+#: inc/customizer/helper-function.php:39
+msgid "%1$s  %2$s"
+msgstr "%1$s  %2$s"
+
+#: inc/customizer/single-blog-options.php:11
+msgid "Single Blog Section"
+msgstr "Розділ одного блогу"
+
+#: inc/customizer/single-blog-options.php:25
+msgid "Hide/Show Categories"
+msgstr "Приховати / Показати категорії"
+
+#: inc/customizer/single-blog-options.php:40
+msgid "Hide/Show Date"
+msgstr "Приховати / Показати дату"
+
+#: inc/customizer/single-blog-options.php:55
+#: inc/customizer/single-blog-options.php:70
+msgid "Hide/Show Comments"
+msgstr "Приховати / Показати коментарі"
+
+#: inc/customizer/single-blog-options.php:85
+msgid "Hide/Show Author Name"
+msgstr "Приховати / Показати автора"
+
+#: inc/customizer/single-blog-options.php:100
+msgid "Hide/Show Tags"
+msgstr "Приховати / Показати позначки"
+
+#: inc/customizer/single-blog-options.php:114
+msgid "Hide/Show Author Details"
+msgstr "Приховати / Показати деталі автора"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Додати нове поле"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:264
+#: inc/customizer-repeater/class/customizer-repeater-control.php:411
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:280
+#: inc/customizer-repeater/class/customizer-repeater-control.php:426
+#: inc/customizer/customizer_typography.php:905
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:291
+#: inc/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/customizer-repeater/class/customizer-repeater-control.php:625
+#: inc/customizer-repeater/class/customizer-repeater-control.php:647
+msgid "Link"
+msgstr "Посилання"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Video Url"
+msgstr "Url відео"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:396
+msgid "Color"
+msgstr "Колір"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:342
+#: inc/customizer-repeater/class/customizer-repeater-control.php:465
+msgid "Shortcode"
+msgstr "Короткий код"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:350
+#: inc/customizer-repeater/class/customizer-repeater-control.php:474
+msgid "Designation"
+msgstr "Позначення"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:366
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Delete field"
+msgstr "Видалити поле"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Open link in new tab:"
+msgstr "Відкрити посилання у новій вкладці:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:533
+#: inc/customizer-repeater/class/customizer-repeater-control.php:601
+msgid "Icon"
+msgstr "Іконка"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:538
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Примітка: Деякі іконки можуть не відобразитись тут. Ви можете переглянути повний список іконок тут %1$s."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:556
+#: inc/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Image"
+msgstr "Зображення"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:559
+msgid "Upload Image"
+msgstr "Завантажити зображення"
+
+#: inc/theme-setup.php:33
+msgid "Primary"
+msgstr "Початковий"
+
+#: inc/customizer/customizer_color_back_settings.php:471
+#: inc/widget/register-widget.php:9
+msgid "Sidebar"
+msgstr "Бічна колонка"
+
+#: inc/widget/register-widget.php:11
+msgid "Add Sidebar widgets."
+msgstr "Додати віджети бічної панелі."
+
+#: inc/widget/register-widget.php:19
+msgid "Footer 1"
+msgstr "Підвал 1"
+
+#: inc/widget/register-widget.php:21
+msgid "Add widgets here to show on footer 1."
+msgstr "Додайте сюди віджети для показу у підвалі 1."
+
+#: inc/widget/register-widget.php:29
+msgid "Footer 2"
+msgstr "Підвал 2"
+
+#: inc/widget/register-widget.php:31
+msgid "Add widgets here to show on footer 2."
+msgstr "Додайте сюди віджети для показу у підвалі 2."
+
+#: inc/widget/register-widget.php:39
+msgid "Footer 3"
+msgstr "Підвал 3"
+
+#: inc/widget/register-widget.php:41
+msgid "Add widgets here to show on footer 3."
+msgstr "Додайте сюди віджети для показу у підвалі 3."
+
+#: inc/widget/register-widget.php:48 inc/widget/register-widget.php:50
+msgid "WooCommerce sidebar widget area"
+msgstr "Область віджетів бічної панелі WooCommerce"
+
+#: index-news.php:72 template-parts/content.php:17
+#: template-parts/content-search.php:17 template-parts/content-single.php:22
+msgid "By"
+msgstr "Від"
+
+#: index-news.php:90 template-parts/content.php:35
+#: template-parts/content-search.php:35
+msgid "Read more"
+msgstr "Читати далі"
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Шукати"
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Перейти"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "Бізнес-шаблон"
+
+#: template-parts/auth-details.php:7
+msgid "Written by: "
+msgstr "Створено:"
+
+#: template-parts/auth-details.php:15
+msgid "View All Posts"
+msgstr "Переглянути усі записи"
+
+#: template-parts/content-none.php:3
+msgid "Nothing found"
+msgstr "Нічого не знайдено"
+
+#: template-parts/content-none.php:4
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Вибачте, але нічого не знайдено. Спробуйте змінити пошуковий запит."
+
+#: inc/header/header-nav.php:41
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d елемент"
+msgstr[1] "%d елементи"
+msgstr[2] "%d елементів"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/honeypress-wordpress-theme/"
+msgstr "https://spicethemes.com/honeypress-wordpress-theme/"
+
+#. Author URI of the theme
+#: inc/customizer/helper-function.php:82
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
